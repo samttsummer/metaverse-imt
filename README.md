@@ -1,2 +1,2 @@
 # metaverse-coursework
-repository dedicated to studies and materials developed within the _metaverso mauá_
+study materials, notes, and practice exercises for immersive technology and metaverse-related topics (_metaverso mauá_)
